@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: wechat-manage-page
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Kim
+Implementation-Vendor-Id: chrilwe.cn
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/wechat/wechat-manage-page
+Created-By: Maven Integration for Eclipse
+

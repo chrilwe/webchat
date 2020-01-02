@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-base-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-base-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-base-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-base-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-center-bigdata" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-manage-account" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-manage-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-manage-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-master-im" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-register-im" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-server-im" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-service-article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-service-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-service-filesystem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-service-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-service-redpackage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wechat-service-register" charset="UTF-8" />
+  </component>
+</project>

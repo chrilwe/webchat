@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wechat-base-api" />
+        <module name="wechat-base-common" />
+        <module name="wechat-base-model" />
+        <module name="wechat-base-utils" />
+        <module name="wechat-center-bigdata" />
+        <module name="wechat-manage-account" />
+        <module name="wechat-manage-system" />
+        <module name="wechat-manage-user" />
+        <module name="wechat-master-im" />
+        <module name="wechat-register-im" />
+        <module name="wechat-server-im" />
+        <module name="wechat-service-article" />
+        <module name="wechat-service-auth" />
+        <module name="wechat-service-filesystem" />
+        <module name="wechat-service-gateway" />
+        <module name="wechat-service-redpackage" />
+        <module name="wechat-service-register" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="wechat-base-api" options="-parameters" />
+      <module name="wechat-base-common" options="-parameters" />
+      <module name="wechat-base-model" options="-parameters" />
+      <module name="wechat-base-utils" options="-parameters" />
+      <module name="wechat-center-bigdata" options="-parameters" />
+      <module name="wechat-manage-account" options="-parameters" />
+      <module name="wechat-manage-system" options="-parameters" />
+      <module name="wechat-manage-user" options="-parameters" />
+      <module name="wechat-master-im" options="-parameters" />
+      <module name="wechat-register-im" options="-parameters" />
+      <module name="wechat-server-im" options="-parameters" />
+      <module name="wechat-service-article" options="-parameters" />
+      <module name="wechat-service-auth" options="-parameters" />
+      <module name="wechat-service-filesystem" options="-parameters" />
+      <module name="wechat-service-gateway" options="-parameters" />
+      <module name="wechat-service-redpackage" options="-parameters" />
+      <module name="wechat-service-register" options="-parameters" />
+    </option>
+  </component>
+</project>
